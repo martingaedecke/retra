@@ -24,6 +24,8 @@ ifelse(!dir.exists("04_table"), dir.create("04_table"), "Folder exists already")
 # 05_log
 ifelse(!dir.exists("05_log"), dir.create("05_log"), "Folder exists already")
 
+# 06_notes
+ifelse(!dir.exists("06_notes"), dir.create("06_notes"), "Folder exists already")
+
 # 11_manuscript
 ifelse(!dir.exists("11_manuscript"), dir.create("11_manuscript"), "Folder exists already")
-
