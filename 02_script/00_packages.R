@@ -1,6 +1,5 @@
 ### Packages R Script ###
 ### Clear environment
-rm(list=ls())
 
 # use (and install if necessary) pacman package 
 library(pacman)
